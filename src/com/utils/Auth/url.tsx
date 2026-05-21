@@ -1,0 +1,1 @@
+export const baseUrl='https://aapsuj.accevate.co/flutter-api/'

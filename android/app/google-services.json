@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454891694127",
+    "project_id": "shopnative-eaf37",
+    "storage_bucket": "shopnative-eaf37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454891694127:android:a738e2d1d2ab5601c0feda",
+        "android_client_info": {
+          "package_name": "com.shopnative_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACAvHGBBoxWCMeoJEFqEQvPk_gd08jgKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
